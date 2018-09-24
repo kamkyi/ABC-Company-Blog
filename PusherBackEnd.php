@@ -40,7 +40,7 @@
                         $options
                       );
 
-                      $data['action'] = "no"
+                      $data['action'] = "no";
                       $pusher->trigger('my-channel', 'my-event', $data);
              }
    }
