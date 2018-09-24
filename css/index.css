@@ -1,0 +1,5 @@
+/*jumbotron*/
+div.jumbotron{
+	background:linear-gradient(white,lightblue);
+	box-shadow: 1px 1px 15px rgba(0,0,0,.3);
+}
